@@ -4,7 +4,7 @@ A Python package that manages seeds during AI &amp; ML training through a TPM an
 # Installation
 Please note that currently only Linux is supported.
 
-1. The standard TPM API is written in C [so we can install](https://tpm2-pytss.readthedocs.io/en/latest/install.html) them the libraries our respective system package managers,
+1. The standard TPM API is written in C [so we can install](https://tpm2-pytss.readthedocs.io/en/latest/install.html) the libraries with our respective system package managers,
   - `apt-get install libtss2-dev`
   - `dnf install tpm2-tss-devel`
 
